@@ -9,7 +9,4 @@
 1.travel the world
 2.eat every type of food
 3.abc
-1.travel the world
-4.msghdh
-5.fghf
 
